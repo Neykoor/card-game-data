@@ -1,16 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Dragon Legendario",
+    "name": "prueba",
     "atk": 3000,
     "hp": 2500,
-    "rareza": "SSR"
-  },
-  {
-    "id": 2,
-    "name": "Neko Girl",
-    "atk": 1800,
-    "hp": 1500,
-    "rareza": "SR"
+    "rareza": "SSR",
+    "image": "https://github.com/Neykoor/card-game-data/blob/main/images/prueba.png"
   }
 ]
