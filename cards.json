@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Dragon Legendario",
+    "atk": 3000,
+    "hp": 2500,
+    "rareza": "SSR"
+  },
+  {
+    "id": 2,
+    "name": "Neko Girl",
+    "atk": 1800,
+    "hp": 1500,
+    "rareza": "SR"
+  }
+]
